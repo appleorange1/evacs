@@ -5,7 +5,6 @@
 #                 remove_duplicates, recontstruct_ers, dump_prefs.
 BINARIES+=tools/export_confirmed
 BINARIES+=tools/export_ballots
-BINARIES+=tools/import_ballots
 
 # Add any extra tests to run here (each name relative to top of tree!).
 EXTRATESTS+=
